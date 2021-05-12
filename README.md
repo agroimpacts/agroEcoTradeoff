@@ -4,6 +4,7 @@ A spatial tradeoff analysis model, focusing on minimizing the ecological costs o
 
 ## Installation
 
+**[Note: this installation process is outdated and needs updating]**
 Installation is in several steps. First, you should have installed already the following: 
 
   + R
