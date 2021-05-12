@@ -1,5 +1,6 @@
 [![DOI](https://zenodo.org/badge/366837376.svg)](https://zenodo.org/badge/latestdoi/366837376)
 
+
 # agroEcoTradeoff
 
 A spatial tradeoff analysis model, focusing on minimizing the ecological costs of agricultural expansion.  Based on Koh and Ghazoul (2010). 

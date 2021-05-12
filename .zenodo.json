@@ -1,0 +1,27 @@
+{
+    "description": "<p>Version used for analysis published in Ecological Applications.</p>", 
+    "license": "other-open", 
+    "title": "agroimpacts/agroEcoTradeoff", 
+    "version": "v2.0.0", 
+    "upload_type": "software", 
+    "publication_date": "2021-05-12", 
+    "creators": [
+        {
+            "affiliation": "Clark University", 
+            "name": "Lyndon Estes"
+        }
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/agroimpacts/agroEcoTradeoff/tree/v2.0.0", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.4754547", 
+            "relation": "isVersionOf"
+        }
+    ]
+}
